@@ -1,0 +1,26 @@
+{
+  "name": "dcore",
+  "version": "1.0.0",
+  "description": "Simple JavaSript Discord API library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToppleKek/dcore.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-api"
+  ],
+  "author": "ToppleKek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToppleKek/dcore/issues"
+  },
+  "homepage": "https://github.com/ToppleKek/dcore#readme",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}
